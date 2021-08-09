@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zk4" style="height:150px;">  
 
 ### Hi, Coder
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zk4.zk4.readme)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=zk4.zk4.readme) -->
 
